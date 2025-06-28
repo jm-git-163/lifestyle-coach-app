@@ -1,10 +1,11 @@
-streamlit
-opencv-python-headless
-mediapipe
+--find-links https://pkgs.dev.azure.com/mediapipe-repo/mediapipe/_packaging/mediapipe/pypi/simple
+streamlit==1.35.0
+opencv-python-headless==4.9.0.80
+mediapipe==0.10.9
 numpy
 openai
 requests
 gtts
 pandas
-streamlit-webrtc
+streamlit-webrtc==0.47.0
 av
