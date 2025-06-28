@@ -8,3 +8,4 @@ gtts
 pandas
 streamlit-webrtc==0.47.0
 av
+
