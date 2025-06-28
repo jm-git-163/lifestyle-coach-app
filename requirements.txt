@@ -1,5 +1,10 @@
 streamlit
 opencv-python-headless
+mediapipe
 numpy
-Pillow
-
+openai
+requests
+gtts
+pandas
+streamlit-webrtc
+av
